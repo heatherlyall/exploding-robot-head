@@ -66,6 +66,7 @@ top: 1.2em;
 margin-left: -3.8em;
 }
 
-.robot-head-left:hover {
-  margin-right: 5em;
+.robot:hover {
+  position: absolute;
+transform: translateX(-50%);
 }
